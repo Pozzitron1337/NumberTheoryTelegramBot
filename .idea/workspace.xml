@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NumberTheoryTelegramBot:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ceb8124-55d1-4808-b7c8-216838eb4b39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1it6yV1aXfDJIS1UhPfNwBdugu2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/NumberTheoryTelegramBot_jar" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/artifacts/NumberTheoryTelegramBot_jar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bot" />
+      <module name="NumberTheoryTelegramBot" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ceb8124-55d1-4808-b7c8-216838eb4b39" name="Default Changelist" comment="" />
+      <created>1602714795416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602714795416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="836" y="175" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602714919023">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="836" y="175" width="1084" height="711" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1034@0.0.1920.1034" timestamp="1602714919023" />
+    <state x="768" y="220" width="374" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1602715412053">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="768" y="220" width="374" height="590" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1034@0.0.1920.1034" timestamp="1602715412053" />
+    <state x="1147" y="307" width="525" height="415" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602720129691">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="1147" y="307" width="525" height="415" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1034@0.0.1920.1034" timestamp="1602720129691" />
+    <state x="1109" y="175" width="612" height="681" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602714986206">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="1109" y="175" width="612" height="681" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1034@0.0.1920.1034" timestamp="1602714986206" />
+    <state x="739" y="377" width="424" height="482" key="FileChooserDialogImpl" timestamp="1602714877105">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="739" y="377" width="424" height="482" key="FileChooserDialogImpl/0.0.1920.1034@0.0.1920.1034" timestamp="1602714877104" />
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom" timestamp="1602720237538">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1602720237538" />
+    <state width="1874" height="272" key="GridCell.Tab.0.center" timestamp="1602720237532">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1602720237532" />
+    <state width="1874" height="272" key="GridCell.Tab.0.left" timestamp="1602720237528">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1602720237528" />
+    <state width="1874" height="272" key="GridCell.Tab.0.right" timestamp="1602720237535">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1874" height="272" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1602720237535" />
+    <state x="443" y="93" width="1024" height="843" key="SettingsEditor" timestamp="1602721654652">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="443" y="93" width="1024" height="843" key="SettingsEditor/0.0.1920.1034@0.0.1920.1034" timestamp="1602721654652" />
+  </component>
+</project>
